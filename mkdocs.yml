@@ -1,10 +1,10 @@
-site_name: taskwarrior-tui - A terminal user interface for taskwarrior
-site_url: https://kdheepak.com/taskwarrior-tui
-site_author: Dheepak Krishnamurthy
+site_name: pyramis
+site_url: https://github.com/StephenEisner/pyramis
+site_author: Stephen Eisner
 
 # Source code repository
-repo_name: kdheepak/taskwarrior-tui
-repo_url: https://github.com/kdheepak/taskwarrior-tui
+repo_name: StephenEisner/pyramis
+repo_url: https://github.com/StephenEisner/pyramis
 
 # Copyright
 copyright: Copyright &copy; 2021 Dheepak Krishnamurthy
